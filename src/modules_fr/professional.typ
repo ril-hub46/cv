@@ -1,40 +1,33 @@
 // Imports
 #import "@preview/brilliant-cv:3.1.1": cv-section, cv-entry, cv-entry-start, cv-entry-continued
 
-
 #cv-section("Expériences Professionnelles")
 
 #cv-entry(
-  title: [Data Scientist],
-  society: [
-    Banque Centrale Populaire #h(4pt) #text(weight: "regular", size: 0.9em)[
-      [#link("https://gitlab.com/ril-lab/value_at_risk")[#text(fill: blue)[Lien GitLab]]]
-    ]
-  ],
-  logo: image("../assets/logos/bcp.jpg"),
-  date: [6 mois - 2025],
-  location: [Casablanca, Maroc],
+  title: [Équipier polyvalent],
+  society: [Eats Crêpes],
+  date: [1 mois – 2025],
+  location: [Reims, France],
+  logo: image("../assets/logos/eat.jpg"),
   description: list(
-   [Developpement de modèles de valorisation (Black Scholes, GARCH) de 4 portefeuilles titres *(options, actions, ...)*],
-    [Calcul de la *Value at risk* par simulation Monte carlo pour le calcul du niveau des capitaux réglementaires.],
-    [Création d’une interface Streamlit facilitant le pilotage, le suivi des *indicateurs de risque* et le reporting. ],
+    [Accueil et service client dans un environnement à fort flux.],
+    [Préparation des commandes en cuisine (crêpes, garnitures) dans le respect des procédures.],
+    [Gestion de la caisse et encaissements.],
+    [Travail en équipe et adaptation à un rythme soutenu.],
   ),
-  tags: ("Black Scholes", "Gestion des risques", "Rigueur"),
+  tags: ("Relation client", "Travail en équipe", "Cuisine", "Rigueur", "Autonomie"),
 )
-
-
 
 #cv-entry(
-  title: [Data Analyst],
-  society: [Royal Air Maroc],
-  date: [2 mois - 2024],
-  location: [Casablanca, Maroc],
-  logo: image("../assets/logos/ram.png"),
+  title: [Soutien en mathématiques],
+  society: [Bénévole],
+  date: [1 an - 2021],
+  location: [Oujda, Maroc],
   description: list(
-    [Identification des leviers de *rentabilité* à partir de l'analyse de 2 indicateurs commerciaux de l'alliance Oneworld.],
-    [Conception d’outils d’automatisation de tâches répétitives pour la gestion de projet s’appuyant sur des *LLMs*.],
+    [Accompagnement d’élèves du lycée et de l'université en mathématiques.],
+    [Explication pédagogique des notions clés et aide à la résolution d’exercices.],
+    [Préparation aux contrôles et examens.],
+    [Développement de l’autonomie et de la confiance des élèves (étudiants).],
   ),
-  tags: ("API", "Intelligence artificielle", "Autonomie"),
+  tags: ("Pédagogie", "Mathématiques", "Patience", "Communication"),
 )
-
-

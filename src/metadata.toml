@@ -68,8 +68,6 @@ language = "fr"
         email = "rilwanouan5@gmail.com"
         phone = "+33 6 15 44 21 78"
         linkedin = "ril-eng"
-        gitlab = "ril-lab"
-        github = "ril-hub46"
         
         #homepage = "johndoe.dev"
         #orcid = "0000-0000-0000-0000"
@@ -109,7 +107,7 @@ language = "fr"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Ingénieur Data à la recherche d’un stage de fin d’étude de 6 mois à partir de mars 2026."
+    header_quote = "Étudiant en data science, à la recherche d’un emploi étudiant, disponible immédiatement."
     cv_footer = "Résumé"
     letter_footer = "Lettre de motivation"
 
