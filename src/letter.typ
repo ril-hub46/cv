@@ -1,5 +1,5 @@
 // Imports
-#import "@preview/brilliant-cv:3.1.1": letter
+#import "vendor/brilliant-cv/src/lib.typ": letter
 #let metadata = toml("./metadata.toml")
 #let letter-language = sys.inputs.at("language", default: none)
 #let metadata = if letter-language != none {
@@ -11,25 +11,30 @@
 
 #show: letter.with(
   metadata,
-  sender-address: "2 chemin des rouliers, Reims
+  sender-address: "21 Avenue Henri Farman, Reims
 0615442178
 rilwanouan5@gmail.com",
-  recipient-name: "Amundi Investment Solutions",
-  recipient-address: "90 boulevard Pasteur, 75730 Paris",
+  recipient-name: "",
+  recipient-address: "",
   date: datetime.today().display(),
-  subject: "Subject: Data engineer en stage de fin d'étude ",
-  signature: image("assets/signature.png"),
+  subject: "Objet:  Absence de notification conditionnelle de bourse - précision ",
+  signature: image("assets/signature_sans.png"),
 )
 
-Madame, Monsieur, 
-
-Je candidate aujourd'hui à votre offre de stage en tant que data ingénieur.
-
-Amundi Investment Solutions en tant qu'entité du groupe Amundi est l’un des principaux gestionnaires d’actifs européens. Elle propose des solutions d’investissement et de gestion pour des clients institutionnels, en s’appuyant sur l’expertise et les ressources globales d’Amundi dans la gestion active et passive. Amundi, la société mère, gère une large gamme d’actifs pour des investisseurs dans le monde entier, ce qui constitue un parfait environnement me permettant de monter en compétence.
-
-Naturellement entreprenant et proactif, j’ai eu l’opportunité, au cours de mes études d’ingénieur, de développer mes compétences couvrant un sous-ensemble du cycle de vie de la donnée : de la modélisation prédictive jusqu’à l’analyse et la restitution. Elles me permettront d’apporter une réelle valeur ajoutée à vos projets. Lors de mes expériences à la Banque Centrale Populaire et chez Royal Air Maroc, j’ai traduit des problématiques métiers complexes en leviers décisionnels pour les parties prenantes, notamment à travers le reporting des risques et l’identification de leviers de rentabilité.
-
-Ces expériences m’ont permis de satisfaire ma curiosité, de développer mes compétences de manière polyvalente, et surtout de renforcer ma communication, que je considère aujourd’hui comme l’un de mes principaux atouts. En espérant pouvoir vous prouver ma rigueur et ma motivation lors d'un prochain entretien
 
 
-Bien cordialement,
+Madame, Monsieur,
+
+Dans le cadre de mon dossier d'inscription administrative pour l'année universitaire 2026-2027, il est demandé de fournir l'attribution conditionnelle de bourse d'enseignement supérieur.
+
+Je précise par la présente que je ne suis pas boursier et que je ne bénéficie d'aucune bourse d'enseignement supérieur pour l'année 2026-2027. Ce document ne peut donc pas être fourni, n'étant pas applicable à ma situation.
+
+Je vous serais reconnaissant de bien vouloir vérifier les dispositions applicables à ma situation ainsi que le montant exact des frais de scolarité qui me sont applicables, afin d'éviter toute confusion ou erreur d'appréciation concernant mon dossier.
+
+Je reste à votre disposition pour tout complément d'information nécessaire au traitement de mon dossier.
+
+Dans l'attente de votre retour, veuillez agréer Madame, Monsieur, l'expression de mes meilleures salutations.
+
+
+
+

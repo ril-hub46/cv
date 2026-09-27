@@ -1,5 +1,5 @@
 #import "@preview/fontawesome:0.6.0"
-#import "@preview/brilliant-cv:3.1.1": cv
+#import "vendor/brilliant-cv/src/lib.typ": cv
 #let metadata = toml("./metadata.toml")
 #let cv-language = sys.inputs.at("language", default: none)
 #let metadata = if cv-language != none {
@@ -21,7 +21,9 @@
   profile-photo: image("assets/Ril.jpg"),
   
 )
-#set text(size: 9pt)
+#set text(size: 10pt)
+#set par(leading: 0.7em)
+#show list: set block(spacing: 0.75em)
 
 
 

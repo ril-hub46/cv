@@ -6,33 +6,19 @@
 
 #cv-skill(
   type: [Langues],
-  info: [Français (langue maternelle) #h-bar() Anglais (niveau B2)],
+  info: [Français (Langue maternelle) #h-bar() Anglais professionnel],
 )
 
 #cv-skill(
-  type: [Compétences],
-  info: [
-    Service client #h-bar()
-    Travail en équipe #h-bar()
-    Rigueur #h-bar()
-    Autonomie #h-bar()
-    Gestion du stress #h-bar()
-    Organisation
-  ],
+  type: [Techniques],
+  info: [Processus ETL #h-bar() DevOps #h-bar() MLOps #h-bar() Optimisation #h-bar() Visualisation #h-bar() Machine learning #h-bar() Econométrie],
+)
+#cv-skill(
+  type: [Informatiques],
+  info: [Python/Pyspark #h-bar() SQL #h-bar() Airflow #h-bar() Docker #h-bar() Gitlab CI/CD #h-bar() Data Build Tool #h-bar() GCP #h-bar() Azure #h-bar() FastAPI #h-bar() Linux/BASH #h-bar() Git #h-bar() Pytest #h-bar() R #h-bar() SAS #h-bar() Excel/VBA #h-bar() Dashboard PowerBI/DAX],
 )
 
 #cv-skill(
-  type: [Compétences opérationnelles],
-  info: [
-    Encaissement #h-bar()
-    Préparation en cuisine #h-bar()
-    Respect des normes d’hygiène #h-bar()
-    Soutien scolaire en mathématiques
-  ],
+  type: [Centres d'intérêt],
+  info: [Fitness #h-bar() Echecs #h-bar() Lecture #h-bar() Volley-ball ],
 )
-
-#cv-skill(
-  type: [Centres d’intérêt],
-  info: [Fitness #h-bar() Échecs #h-bar() Lecture],
-)
-

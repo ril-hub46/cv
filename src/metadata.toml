@@ -33,7 +33,7 @@ language = "fr"
         display_profile_photo = true
         # Radius in % to clip profile photo at
         profile_photo_radius = "50%"
-        info_font_size = "11pt"
+        info_font_size = "13pt"
 
     [layout.entry]
         # Decide if you want to put your company in bold or your position in bold
@@ -68,6 +68,8 @@ language = "fr"
         email = "rilwanouan5@gmail.com"
         phone = "+33 6 15 44 21 78"
         linkedin = "ril-eng"
+        gitlab = "ril-lab"
+        github = "ril-hub46"
         
         #homepage = "johndoe.dev"
         #orcid = "0000-0000-0000-0000"
@@ -107,7 +109,7 @@ language = "fr"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Étudiant en data science, à la recherche d’un emploi étudiant, disponible immédiatement."
+    header_quote = "Data Engineer au service de la décision, disponible à partir de septembre 2026.."
     cv_footer = "Résumé"
     letter_footer = "Lettre de motivation"
 
