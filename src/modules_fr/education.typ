@@ -6,10 +6,10 @@
 
 #cv-entry(
   title: [Master en Datascience],
-  society: [Université de Reims Champagne-Ardenne],
+  society: [IAE Reims-Troyes],
   date: [2025 - 2026],
   location: [Reims, France],
-  logo: image("../assets/logos/urca.png"),
+  logo: image("../assets/logos/th.jpeg"),
   description: list(
     [Formation mixte combinant mathématiciens et économistes, *orientée communication et gestion de projets en équipe*.],
   ),
@@ -22,6 +22,6 @@
   location: [Rabat, Maroc],
   logo: image("../assets/logos/insea.png"),
   description: list(
-    [Formation avancée en *modélisation économetrique et en programmation* pour la manipulation de bases de données.],
+    [Formation avancée en *modélisation mathématique et en programmation* pour la manipulation de bases de données.],
   ),
 )

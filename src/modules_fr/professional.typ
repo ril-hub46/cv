@@ -8,14 +8,14 @@
   title: [Consultant Data Engineer],
   society: [Forvis Mazars],
   logo: image("../assets/logos/FMz.png"),
-  date: [En cours - 2026],
+  date: [6 mois - 2026],
   location: [Paris, France],
   description: list(
-    [Conception et développement de *pipelines de données* robustes pour *l'ingestion* et le traitement de *sources\ hétérogènes* (Excel, API), alimentant des indicateurs RH et médico-sociaux],
-    [Participation à *l'architecture* (FastAPI, PostgreSQL) et utilisation de la CI/CD GitLab pour *fiabiliser les déploiements*],
-    [Fiabilisation du *code* par tests unitaires *(Pytest)*, gestion des erreurs via *logging*, et *documentation technique* (Sphinx)],
+    [Conception et développement de *pipelines d'ingestion* et de transformation en python à partir de *4 sources\ hétérogènes* (Excel, API) vers PostgreSQL, alimentant plus de *15 indicateurs* RH et médico-sociaux],
+    [Contribution à l'architecture back-end FastAPI, avec tests et déploiements automatisés via *GitLab CI/CD*],
+    [Fiabilisation du code par tests unitaires *Pytest*, gestion des erreurs via logging et *documentation* Sphinx]
   ),
-  tags: ("Python", "PostgreSQL", "Agile Delivery"),
+  tags: ("Python", "PostgreSQL", "FastAPI", "Linux/vim"),
 )
 
 #cv-entry(

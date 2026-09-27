@@ -59,8 +59,8 @@ language = "fr"
     injected_keywords_list = ["Data Analyst", "Data Scientist", "Data Engineer", "R", "Python", "SQL", "VBA/Excel", "Power BI", "Data Science", "Modélisation", "Estimation", "Communication", "Synthèse", "modélisation", "churn rate", "analysis", "communication", "valorisation des données", "Extraction", "Nettoyage", "Visualisation et Analyse de données", "Big Data", "Modélisation", "Machine learning/ IA", "Segmentation", "Churn", "Scrum Master", "DevOps", "Optimisation", "requêtes SQL", "tableau de bord", "Aisance orale", "Autonomie", "Adaptabilité", "Esprit d'analyse", "Esprit de synthèse", "Orientation résultat", "Persévérance", "Extraction", "Negociation", "Vente", "Visualisation et Analyse de données", "Big Data", "Segmentation", "Typologie", "Taux de Churn", "HEC", "Polytechnique", "ENSAI", "Ecole National de la Statistique et de l'Analyse Economique","ENS", "École d'ingénieur", "Marketing", "Management", "Business"]
 
 [personal]
-    first_name = "Rilwanou"
-    last_name = "MAHAMAN"
+    first_name = ""
+    last_name = "Ril"
 
 
       [personal.info]
@@ -68,7 +68,6 @@ language = "fr"
         email = "rilwanouan5@gmail.com"
         phone = "+33 6 15 44 21 78"
         linkedin = "ril-eng"
-        gitlab = "ril-lab"
         github = "ril-hub46"
         
         #homepage = "johndoe.dev"
@@ -109,7 +108,7 @@ language = "fr"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Data Engineer au service de la décision, disponible à partir de septembre 2026.."
+    header_quote = "Data Engineer au service de la décision, disponible à partir de septembre 2026."
     cv_footer = "Résumé"
     letter_footer = "Lettre de motivation"
 
