@@ -10,12 +10,20 @@
 )
 
 #cv-skill(
-  type: [Techniques],
-  info: [Processus ETL #h-bar() DevOps #h-bar() MLOps #h-bar() Optimisation #h-bar() Visualisation #h-bar() Machine learning #h-bar() Econométrie],
+  type: [Data Engineering],
+  info: [Processus ETL #h-bar() Data Platform #h-bar() Orchestration #h-bar() DevOps #h-bar() Optimisation],
 )
 #cv-skill(
-  type: [Informatiques],
-  info: [Python/Pyspark #h-bar() SQL #h-bar() Airflow #h-bar() Docker #h-bar() Gitlab CI/CD #h-bar() Data Build Tool #h-bar() GCP #h-bar() Azure #h-bar() FastAPI #h-bar() Linux/BASH #h-bar() Git #h-bar() Pytest #h-bar() R #h-bar() SAS #h-bar() Excel/VBA #h-bar() Dashboard PowerBI/DAX],
+  type: [Data Science],
+  info: [Modélisation statistique #h-bar() Machine Learning #h-bar() MLOps #h-bar() Econométrie #h-bar() Visualisation],
+)
+#cv-skill(
+  type: [Langages et Bases],
+  info: [Python #h-bar() PySpark #h-bar() SQL #h-bar() PostgreSQL #h-bar() BigQuery #h-bar() R #h-bar() SAS #h-bar() Bash #h-bar() Excel/VBA],
+)
+#cv-skill(
+  type: [Outils et Cloud],
+  info: [Airflow #h-bar() dbt #h-bar() Docker #h-bar() GitLab CI/CD #h-bar() Linux #h-bar() Pytest #h-bar() FastAPI #h-bar() GCP #h-bar() Azure #h-bar() Power BI],
 )
 
 #cv-skill(

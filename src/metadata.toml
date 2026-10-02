@@ -1,4 +1,4 @@
-#:schema https://raw.githubusercontent.com/yunanwg/brilliant-CV/main/metadata.toml.schema.json
+
 
 #import "@preview/fontawesome:0.6.0"
 # Set the output language
@@ -60,7 +60,7 @@ language = "fr"
 
 [personal]
     first_name = ""
-    last_name = "Ril"
+    last_name = "RiL"
 
 
       [personal.info]
@@ -108,7 +108,7 @@ language = "fr"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Data Engineer au service de la décision, disponible à partir de septembre 2026."
+    header_quote = "Data Engineer, je transforme des processus manuels en pipelines fiables et automatisés. Disponible immédiatement."
     cv_footer = "Résumé"
     letter_footer = "Lettre de motivation"
 

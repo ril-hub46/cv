@@ -11,17 +11,17 @@
   location: [Reims, France],
   logo: image("../assets/logos/th.jpeg"),
   description: list(
-    [Formation mixte combinant mathématiciens et économistes, *orientée communication et gestion de projets en équipe*.],
+    [Formation en data science alliant mathématiques et économie, orientée *gestion de projets en équipe*],
   ),
 )
 
 #cv-entry(
-  title: [Diplôme d'ingénieur en Statistique, Economie Appliquée et Big Data],
+  title: [Diplôme d'ingénieur en Statistique et Big Data],
   society: [Institut National de Statistique et d'Economie Appliquée],
   date: [2023 - 2025],
   location: [Rabat, Maroc],
   logo: image("../assets/logos/insea.png"),
   description: list(
-    [Formation avancée en *modélisation mathématique et en programmation* pour la manipulation de bases de données.],
+    [Formation avancée en *modélisation statistique, programmation* et *traitement de données massives*],
   ),
 )

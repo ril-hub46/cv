@@ -9,18 +9,18 @@
 
 
 #cv-entry(
-  title: [Economètre],
+  title: [Data Engineer],
   society: [
-    Qualité des institutions #h(4pt) #text(weight: "regular", size: 0.9em)[
-      [#link("https://github.com/ril-hub46/Insitutions_quality")[#text(fill:        blue)[Lien Github]]]
-     ]
-   ],
-
-  date: [2 mois -2024],
-  location: [INSEA],
+    Pipeline ETL SNCF sur GCP #h(4pt) #text(weight: "regular", size: 0.9em)[
+      [#link("https://gitlab.com/ril-lab/engineering_gcp")[#text(fill: blue)[Lien GitLab]]]
+    ]
+  ],
+  date: [2 mois - 2026],
+  location: [IAE Reims],
   description: list(
-    [Modélisation économétrique pour quantifier l'effet de la qualité des institutions sur le développement économique.],
-      [*Outils et méthodes*: R (tidyverse, dplyr, stargazer, ggplot2, data.table), R Shiny, API, Gestion de version],
+    [Conception d'un pipeline ETL Python ingérant des données multi-sources (SNCF, météo) dans Cloud Storage],
+    [Chargement dans le data warehouse BigQuery et modélisation en étoile pour l'analyse décisionnelle],
+    [*Outils et méthodes*: PySpark, Pandas, SQL, Linux/BASH, Google Cloud Platform],
   ),
 )
 
