@@ -60,7 +60,7 @@ language = "fr"
 
 [personal]
     first_name = ""
-    last_name = "RiL"
+    last_name = "Rilwane"
 
 
       [personal.info]
@@ -108,7 +108,7 @@ language = "fr"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Data Engineer, je transforme des processus manuels en pipelines fiables et automatisés. Disponible immédiatement."
+    header_quote = "Profil data junior, je transforme les données en décisions claires et exploitables. Disponible immédiatement."
     cv_footer = "Résumé"
     letter_footer = "Lettre de motivation"
 
