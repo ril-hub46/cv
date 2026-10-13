@@ -19,7 +19,7 @@
 )
 
 #cv-entry(
-  title: [Data Scientist],
+  title: [Quantitative Risk Analyst],
   society: [
     Banque Centrale Populaire #h(4pt) #text(weight: "regular", size: 0.9em)[
       [#link("https://gitlab.com/ril-lab/value_at_risk")[#text(fill: blue)[Lien GitLab]]]

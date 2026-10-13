@@ -108,7 +108,7 @@ language = "fr"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Profil data junior, je transforme les données en décisions claires et exploitables. Disponible immédiatement."
+    header_quote = "Je conçois et exploite des pipelines de données à grande échelle, et j'entraîne et déploie les modèles qui s'appuient dessus."
     cv_footer = "Résumé"
     letter_footer = "Lettre de motivation"
 

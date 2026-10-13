@@ -4,24 +4,22 @@
 
 #cv-section("Projets")
 
-
-
-
-
 #cv-entry(
-  title: [Data Engineer],
+  title: [Quantitative Risk Analyst],
   society: [
-    Pipeline ETL SNCF sur GCP #h(4pt) #text(weight: "regular", size: 0.9em)[
-      [#link("https://gitlab.com/ril-lab/engineering_gcp")[#text(fill: blue)[Lien GitLab]]]
+    Scoring de risque de crédit (IFRS 9) #h(4pt) #text(weight: "regular", size: 0.9em)[
+      [#link("https://github.com/ril-hub46/scoring_ifrs9")[#text(fill: blue)[Lien GitHub]]]
     ]
   ],
-  date: [2 mois - 2026],
+  date: [2 mois - 2025],
   location: [IAE Reims],
   description: list(
-    [Conception d'un pipeline ETL Python ingérant des données multi-sources (SNCF, météo) dans Cloud Storage],
-    [Chargement dans le data warehouse BigQuery et modélisation en étoile pour l'analyse décisionnelle],
-    [*Outils et méthodes*: PySpark, Pandas, SQL, Linux/BASH, Google Cloud Platform],
+    [Entraînement d'un modèle de *Probabilité de Défaut* (PD) avec Scikit-learn sur des données de prêts],
+    [Développement d'un dashboard *Streamlit* simulant l'*Expected Credit Loss* (ECL) selon la norme *IFRS 9*],
+    [*Outils et méthodes*: Python, Scikit-learn, Pandas, Poetry, Docker, Streamlit],
   ),
 )
+
+
 
 
