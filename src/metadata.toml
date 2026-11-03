@@ -56,7 +56,27 @@ language = "fr"
 
     # Decide if you want to inject keywords or not
     inject_keywords = true
-    injected_keywords_list = ["Data Analyst", "Data Scientist", "Data Engineer", "R", "Python", "SQL", "VBA/Excel", "Power BI", "Data Science", "Modélisation", "Estimation", "Communication", "Synthèse", "modélisation", "churn rate", "analysis", "communication", "valorisation des données", "Extraction", "Nettoyage", "Visualisation et Analyse de données", "Big Data", "Modélisation", "Machine learning/ IA", "Segmentation", "Churn", "Scrum Master", "DevOps", "Optimisation", "requêtes SQL", "tableau de bord", "Aisance orale", "Autonomie", "Adaptabilité", "Esprit d'analyse", "Esprit de synthèse", "Orientation résultat", "Persévérance", "Extraction", "Negociation", "Vente", "Visualisation et Analyse de données", "Big Data", "Segmentation", "Typologie", "Taux de Churn", "HEC", "Polytechnique", "ENSAI", "Ecole National de la Statistique et de l'Analyse Economique","ENS", "École d'ingénieur", "Marketing", "Management", "Business"]
+    injected_keywords_list = [
+        # Intitulés de poste ciblés
+        "Data Engineer", "AI Engineer", "Data Analyst", "Data Scientist", "Ingénieur Data", "Ingénieur IA",
+        # Data Engineering
+        "ETL", "ELT", "pipeline de données", "data pipeline", "ingestion de données", "data platform",
+        "data warehouse", "entrepôt de données", "modélisation en étoile", "star schema", "orchestration",
+        "Airflow", "dbt", "Spark", "PySpark", "BigQuery", "Cloud Storage", "GCP", "Google Cloud", "Azure",
+        "PostgreSQL", "SQL", "Docker", "CI/CD", "GitLab CI", "Git", "DevOps", "Linux", "Bash",
+        "qualité des données", "data quality", "tests unitaires", "Pytest", "logging",
+        # AI Engineering
+        "Machine Learning", "MLOps", "IA générative", "LLM", "API OpenAI", "GPT", "extraction d'information",
+        "automatisation", "FastAPI", "API REST", "Streamlit", "déploiement de modèles", "Python",
+        # Data Analysis
+        "analyse de données", "data visualisation", "Power BI", "tableau de bord", "dashboard", "KPI",
+        "indicateurs", "reporting", "Excel", "VBA", "Pandas", "R", "SAS", "statistique", "économétrie",
+        "modélisation statistique", "Monte Carlo", "séries temporelles", "GARCH", "gestion des risques", "VaR",
+        # Formation et soft skills
+        "Big Data", "ingénieur statistique", "Master Data Science", "autonomie", "esprit d'analyse",
+        "esprit de synthèse", "travail en équipe", "documentation",
+        "École Polytechnique", "ENSAI", "ENSAE", "Paris Dauphine",
+    ]
 
 [personal]
     first_name = "Rilwanou"
